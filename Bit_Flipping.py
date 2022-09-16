@@ -94,7 +94,7 @@ if __name__ == "__main__" :
 		sleep(1)
 		
 	except KeyboardInterrupt:
-		print(Fore.RED + "\n	[-] The Exploit has been INTERRUPTED")
+		print(Fore.RED + "\n	[-] The Exploit has been INTERRUPTED !")
 
 	except Exception as e:
 		print(Fore.RED + "[-] " + str(e))
