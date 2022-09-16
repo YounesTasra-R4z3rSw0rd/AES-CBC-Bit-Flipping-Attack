@@ -1,3 +1,4 @@
+# Inspired by Martin Carlisle.
 #!/usr/bin/python3
 
 import requests
